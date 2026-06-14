@@ -2,3 +2,10 @@
 __pycache__/
 *.pyc
 .env
+
+# superpowers
+docs/superpowers/
+.superpowers/
+
+# claude
+.claude/settings.json
