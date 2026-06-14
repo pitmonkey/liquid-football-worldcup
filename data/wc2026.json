@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T20:57:30+00:00",
+  "lastUpdated": "2026-06-14T22:05:13+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -499,8 +499,8 @@
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
+          "gf": 2,
+          "ga": 2,
           "gd": 0,
           "points": 1
         },
@@ -510,8 +510,8 @@
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
+          "gf": 2,
+          "ga": 2,
           "gd": 0,
           "points": 1
         },
@@ -542,10 +542,10 @@
         {
           "home": "Netherlands",
           "away": "Japan",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 2,
+          "awayScore": 2,
           "date": "2026-06-14T20:00:00Z",
-          "status": "PAUSED"
+          "status": "FINISHED"
         },
         {
           "home": "Sweden",
