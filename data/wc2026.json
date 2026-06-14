@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T15:41:27+00:00",
+  "lastUpdated": "2026-06-14T17:06:56+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -397,25 +397,25 @@
       "standings": [
         {
           "team": "Curaçao",
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gf": 0,
           "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 1
         },
         {
           "team": "Germany",
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gf": 0,
           "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 1
         },
         {
           "team": "Ecuador",
@@ -447,7 +447,7 @@
           "homeScore": null,
           "awayScore": null,
           "date": "2026-06-14T17:00:00Z",
-          "status": "TIMED"
+          "status": "IN_PLAY"
         },
         {
           "home": "Ivory Coast",
