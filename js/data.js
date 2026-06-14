@@ -13,7 +13,7 @@ APP.FLAGS = {
   'Egypt': '🇪🇬', 'Norway': '🇳🇴', 'Canada': '🇨🇦', 'Algeria': '🇩🇿',
   'Iraq': '🇮🇶', 'Ghana': '🇬🇭', 'Sweden': '🇸🇪', 'Jordan': '🇯🇴',
   'DR Congo': '🇨🇩', 'Panama': '🇵🇦', 'Czech Republic': '🇨🇿', 'Tunisia': '🇹🇳',
-  'Poland': '🇵🇱', 'Portugal': '🇵🇹', 'Serbia': '🇷🇸', 'Romania': '🇷🇴',
+  'Poland': '🇵🇱', 'Serbia': '🇷🇸', 'Romania': '🇷🇴',
   'Ukraine': '🇺🇦', 'Greece': '🇬🇷'
 };
 
