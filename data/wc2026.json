@@ -1,12 +1,1683 @@
 {
-  "lastUpdated": null,
-  "groups": {},
-  "knockout": {
-    "R32": [],
-    "R16": [],
-    "QF": [],
-    "SF": [],
-    "FINAL": []
+  "lastUpdated": "2026-06-14T08:37:40+00:00",
+  "groups": {
+    "A": {
+      "standings": [
+        {
+          "team": "Mexico",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 0,
+          "gd": 2,
+          "points": 3
+        },
+        {
+          "team": "South Korea",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 1,
+          "gd": 1,
+          "points": 3
+        },
+        {
+          "team": "Czech Republic",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 2,
+          "gd": -1,
+          "points": 0
+        },
+        {
+          "team": "South Africa",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 2,
+          "gd": -2,
+          "points": 0
+        }
+      ],
+      "matches": [
+        {
+          "home": "Mexico",
+          "away": "South Africa",
+          "homeScore": 2,
+          "awayScore": 0,
+          "date": "2026-06-11T19:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "home": "South Korea",
+          "away": "Czech Republic",
+          "homeScore": 2,
+          "awayScore": 1,
+          "date": "2026-06-12T02:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "home": "Czech Republic",
+          "away": "South Africa",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-18T16:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Mexico",
+          "away": "South Korea",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-19T01:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Czech Republic",
+          "away": "Mexico",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-25T01:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "South Africa",
+          "away": "South Korea",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-25T01:00:00Z",
+          "status": "TIMED"
+        }
+      ]
+    },
+    "B": {
+      "standings": [
+        {
+          "team": "Switzerland",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Canada",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Qatar",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Bosnia",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        }
+      ],
+      "matches": [
+        {
+          "home": "Canada",
+          "away": "Bosnia",
+          "homeScore": 1,
+          "awayScore": 1,
+          "date": "2026-06-12T19:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "home": "Qatar",
+          "away": "Switzerland",
+          "homeScore": 1,
+          "awayScore": 1,
+          "date": "2026-06-13T19:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "home": "Switzerland",
+          "away": "Bosnia",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-18T19:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Canada",
+          "away": "Qatar",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-18T22:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Switzerland",
+          "away": "Canada",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-24T19:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Bosnia",
+          "away": "Qatar",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-24T19:00:00Z",
+          "status": "TIMED"
+        }
+      ]
+    },
+    "C": {
+      "standings": [
+        {
+          "team": "Scotland",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 1,
+          "ga": 0,
+          "gd": 1,
+          "points": 3
+        },
+        {
+          "team": "Morocco",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Brazil",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Haiti",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 1,
+          "gd": -1,
+          "points": 0
+        }
+      ],
+      "matches": [
+        {
+          "home": "Brazil",
+          "away": "Morocco",
+          "homeScore": 1,
+          "awayScore": 1,
+          "date": "2026-06-13T22:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "home": "Haiti",
+          "away": "Scotland",
+          "homeScore": 0,
+          "awayScore": 1,
+          "date": "2026-06-14T01:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "home": "Scotland",
+          "away": "Morocco",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-19T22:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Brazil",
+          "away": "Haiti",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-20T00:30:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Morocco",
+          "away": "Haiti",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-24T22:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Scotland",
+          "away": "Brazil",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-24T22:00:00Z",
+          "status": "TIMED"
+        }
+      ]
+    },
+    "D": {
+      "standings": [
+        {
+          "team": "USA",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 3
+        },
+        {
+          "team": "Australia",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 0,
+          "gd": 2,
+          "points": 3
+        },
+        {
+          "team": "Turkey",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 2,
+          "gd": -2,
+          "points": 0
+        },
+        {
+          "team": "Paraguay",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 4,
+          "gd": -3,
+          "points": 0
+        }
+      ],
+      "matches": [
+        {
+          "home": "USA",
+          "away": "Paraguay",
+          "homeScore": 4,
+          "awayScore": 1,
+          "date": "2026-06-13T01:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "home": "Australia",
+          "away": "Turkey",
+          "homeScore": 2,
+          "awayScore": 0,
+          "date": "2026-06-14T04:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "home": "USA",
+          "away": "Australia",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-19T19:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Turkey",
+          "away": "Paraguay",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-20T03:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Turkey",
+          "away": "USA",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-26T02:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Paraguay",
+          "away": "Australia",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-26T02:00:00Z",
+          "status": "TIMED"
+        }
+      ]
+    },
+    "E": {
+      "standings": [
+        {
+          "team": "Curaçao",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Germany",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Ecuador",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Ivory Coast",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ],
+      "matches": [
+        {
+          "home": "Germany",
+          "away": "Curaçao",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-14T17:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Ivory Coast",
+          "away": "Ecuador",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-14T23:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Germany",
+          "away": "Ivory Coast",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-20T20:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Ecuador",
+          "away": "Curaçao",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-21T00:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Ecuador",
+          "away": "Germany",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-25T20:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Curaçao",
+          "away": "Ivory Coast",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-25T20:00:00Z",
+          "status": "TIMED"
+        }
+      ]
+    },
+    "F": {
+      "standings": [
+        {
+          "team": "Japan",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Netherlands",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Sweden",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Tunisia",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ],
+      "matches": [
+        {
+          "home": "Netherlands",
+          "away": "Japan",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-14T20:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Sweden",
+          "away": "Tunisia",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-15T02:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Netherlands",
+          "away": "Sweden",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-20T17:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Tunisia",
+          "away": "Japan",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-21T04:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Tunisia",
+          "away": "Netherlands",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-25T23:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Japan",
+          "away": "Sweden",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-25T23:00:00Z",
+          "status": "TIMED"
+        }
+      ]
+    },
+    "G": {
+      "standings": [
+        {
+          "team": "Egypt",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Belgium",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Iran",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "New Zealand",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ],
+      "matches": [
+        {
+          "home": "Belgium",
+          "away": "Egypt",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-15T19:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Iran",
+          "away": "New Zealand",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-16T01:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Belgium",
+          "away": "Iran",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-21T19:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "New Zealand",
+          "away": "Egypt",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-22T01:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "New Zealand",
+          "away": "Belgium",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-27T03:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Egypt",
+          "away": "Iran",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-27T03:00:00Z",
+          "status": "TIMED"
+        }
+      ]
+    },
+    "H": {
+      "standings": [
+        {
+          "team": "Cape Verde Islands",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Saudi Arabia",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Spain",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Uruguay",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ],
+      "matches": [
+        {
+          "home": "Spain",
+          "away": "Cape Verde Islands",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-15T16:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-15T22:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-21T16:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Uruguay",
+          "away": "Cape Verde Islands",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-21T22:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Uruguay",
+          "away": "Spain",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-27T00:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Cape Verde Islands",
+          "away": "Saudi Arabia",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-27T00:00:00Z",
+          "status": "TIMED"
+        }
+      ]
+    },
+    "I": {
+      "standings": [
+        {
+          "team": "France",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Iraq",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Norway",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Senegal",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ],
+      "matches": [
+        {
+          "home": "France",
+          "away": "Senegal",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-16T19:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Iraq",
+          "away": "Norway",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-16T22:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "France",
+          "away": "Iraq",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-22T21:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Norway",
+          "away": "Senegal",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-23T00:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Norway",
+          "away": "France",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-26T19:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Senegal",
+          "away": "Iraq",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-26T19:00:00Z",
+          "status": "TIMED"
+        }
+      ]
+    },
+    "J": {
+      "standings": [
+        {
+          "team": "Algeria",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Argentina",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Jordan",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Austria",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ],
+      "matches": [
+        {
+          "home": "Argentina",
+          "away": "Algeria",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-17T01:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Austria",
+          "away": "Jordan",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-17T04:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Argentina",
+          "away": "Austria",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-22T17:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Jordan",
+          "away": "Algeria",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-23T03:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Jordan",
+          "away": "Argentina",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-28T02:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Algeria",
+          "away": "Austria",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-28T02:00:00Z",
+          "status": "TIMED"
+        }
+      ]
+    },
+    "K": {
+      "standings": [
+        {
+          "team": "DR Congo",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Colombia",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Portugal",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Uzbekistan",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ],
+      "matches": [
+        {
+          "home": "Portugal",
+          "away": "DR Congo",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-17T17:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-18T02:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-23T17:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Colombia",
+          "away": "DR Congo",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-24T02:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Colombia",
+          "away": "Portugal",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-27T23:30:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "DR Congo",
+          "away": "Uzbekistan",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-27T23:30:00Z",
+          "status": "TIMED"
+        }
+      ]
+    },
+    "L": {
+      "standings": [
+        {
+          "team": "England",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Ghana",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Croatia",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Panama",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ],
+      "matches": [
+        {
+          "home": "England",
+          "away": "Croatia",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-17T20:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Ghana",
+          "away": "Panama",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-17T23:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "England",
+          "away": "Ghana",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-23T20:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Panama",
+          "away": "Croatia",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-23T23:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Panama",
+          "away": "England",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-27T21:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Croatia",
+          "away": "Ghana",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-27T21:00:00Z",
+          "status": "TIMED"
+        }
+      ]
+    }
   },
-  "teamStatus": {}
+  "knockout": {
+    "R32": [
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-06-28T19:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-06-29T17:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-06-29T20:30:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-06-30T01:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-06-30T17:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-06-30T21:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-01T01:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-01T16:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-01T20:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-02T00:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-02T19:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-02T23:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-03T03:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-03T18:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-03T22:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-04T01:30:00Z",
+        "status": "TIMED"
+      }
+    ],
+    "R16": [
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-04T17:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-04T21:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-05T20:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-06T00:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-06T19:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-07T00:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-07T16:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-07T20:00:00Z",
+        "status": "TIMED"
+      }
+    ],
+    "QF": [
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-09T20:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-10T19:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-11T21:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-12T01:00:00Z",
+        "status": "TIMED"
+      }
+    ],
+    "SF": [
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-14T19:00:00Z",
+        "status": "TIMED"
+      },
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-15T19:00:00Z",
+        "status": "TIMED"
+      }
+    ],
+    "FINAL": [
+      {
+        "home": null,
+        "away": null,
+        "homeScore": null,
+        "awayScore": null,
+        "date": "2026-07-19T19:00:00Z",
+        "status": "TIMED"
+      }
+    ]
+  },
+  "teamStatus": {
+    "Mexico": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "South Africa": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "South Korea": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Czech Republic": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Canada": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Bosnia": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "USA": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Paraguay": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Qatar": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Switzerland": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Brazil": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Morocco": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Haiti": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Scotland": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Australia": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Turkey": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Germany": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Curaçao": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Netherlands": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Japan": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Ivory Coast": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Ecuador": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Sweden": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Tunisia": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Spain": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Cape Verde Islands": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Belgium": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Egypt": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Saudi Arabia": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Uruguay": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Iran": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "New Zealand": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "France": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Senegal": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Iraq": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Norway": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Argentina": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Algeria": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Austria": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Jordan": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Portugal": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "DR Congo": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "England": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Croatia": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Ghana": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Panama": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Uzbekistan": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    },
+    "Colombia": {
+      "round": "GROUP",
+      "eliminated": false,
+      "champion": false
+    }
+  }
 }
