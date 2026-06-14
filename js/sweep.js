@@ -24,8 +24,8 @@ APP.renderSweep = function() {
       var badgeClass = APP.badgeClass(status);
       var flag = APP.flag(p[teamKey]);
       var teamDisplay = eliminated
-        ? '<span class="lb-team" style="text-decoration:line-through;color:var(--dim)">' + p[teamKey] + ' (' + flag + ')</span>'
-        : '<span class="lb-team">' + p[teamKey] + ' (' + flag + ')</span>';
+        ? '<span class="lb-team" style="text-decoration:line-through;color:var(--dim)">' + flag + ' ' + p[teamKey] + '</span>'
+        : '<span class="lb-team">' + flag + ' ' + p[teamKey] + '</span>';
 
       rows += '<div class="lb-row' + (eliminated ? ' eliminated' : '') + '">'
         + '<div class="lb-rank ' + rankClass + '">' + (eliminated ? '—' : displayRank) + '</div>'

@@ -1,26 +1,28 @@
 var APP = APP || {};
 
 APP.FLAGS = {
-  'Mexico': '🇲🇽', 'Japan': '🇯🇵', 'Iran': '🇮🇷', 'Croatia': '🇭🇷',
-  'Germany': '🇩🇪', 'Netherlands': '🇳🇱', 'Spain': '🇪🇸', 'Portugal': '🇵🇹',
-  'Ecuador': '🇪🇨', 'Morocco': '🇲🇦', 'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿', 'Brazil': '🇧🇷',
-  'Australia': '🇦🇺', 'Senegal': '🇸🇳', 'Austria': '🇦🇹', 'Argentina': '🇦🇷',
-  'South Korea': '🇰🇷', 'Turkey': '🇹🇷', 'USA': '🇺🇸', 'Belgium': '🇧🇪',
-  'France': '🇫🇷', 'Switzerland': '🇨🇭', 'Colombia': '🇨🇴', 'Uruguay': '🇺🇾',
-  'Cape Verde Islands': '🇨🇻', 'Paraguay': '🇵🇾', 'Ivory Coast': '🇨🇮', 'Curaçao': '🇨🇼',
-  'South Africa': '🇿🇦', 'Bosnia': '🇧🇦', 'New Zealand': '🇳🇿', 'Qatar': '🇶🇦',
-  'Haiti': '🇭🇹', 'Uzbekistan': '🇺🇿', 'Saudi Arabia': '🇸🇦', 'Scotland': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
-  'Egypt': '🇪🇬', 'Norway': '🇳🇴', 'Canada': '🇨🇦', 'Algeria': '🇩🇿',
-  'Iraq': '🇮🇶', 'Ghana': '🇬🇭', 'Sweden': '🇸🇪', 'Jordan': '🇯🇴',
-  'DR Congo': '🇨🇩', 'Panama': '🇵🇦', 'Czech Republic': '🇨🇿', 'Tunisia': '🇹🇳',
-  'Poland': '🇵🇱', 'Serbia': '🇷🇸', 'Romania': '🇷🇴',
-  'Ukraine': '🇺🇦', 'Greece': '🇬🇷'
+  'Mexico': 'mx', 'Japan': 'jp', 'Iran': 'ir', 'Croatia': 'hr',
+  'Germany': 'de', 'Netherlands': 'nl', 'Spain': 'es', 'Portugal': 'pt',
+  'Ecuador': 'ec', 'Morocco': 'ma', 'England': 'gb-eng', 'Brazil': 'br',
+  'Australia': 'au', 'Senegal': 'sn', 'Austria': 'at', 'Argentina': 'ar',
+  'South Korea': 'kr', 'Turkey': 'tr', 'USA': 'us', 'Belgium': 'be',
+  'France': 'fr', 'Switzerland': 'ch', 'Colombia': 'co', 'Uruguay': 'uy',
+  'Cape Verde Islands': 'cv', 'Paraguay': 'py', 'Ivory Coast': 'ci', 'Curaçao': 'cw',
+  'South Africa': 'za', 'Bosnia': 'ba', 'New Zealand': 'nz', 'Qatar': 'qa',
+  'Haiti': 'ht', 'Uzbekistan': 'uz', 'Saudi Arabia': 'sa', 'Scotland': 'gb-sct',
+  'Egypt': 'eg', 'Norway': 'no', 'Canada': 'ca', 'Algeria': 'dz',
+  'Iraq': 'iq', 'Ghana': 'gh', 'Sweden': 'se', 'Jordan': 'jo',
+  'DR Congo': 'cd', 'Panama': 'pa', 'Czech Republic': 'cz', 'Tunisia': 'tn',
+  'Poland': 'pl', 'Serbia': 'rs', 'Romania': 'ro',
+  'Ukraine': 'ua', 'Greece': 'gr'
 };
 
 var ROUND_WEIGHT = { GROUP: 0, R32: 1, R16: 2, QF: 3, SF: 4, FINAL: 5 };
 
 APP.flag = function(team) {
-  return APP.FLAGS[team] || '🏳️';
+  var code = APP.FLAGS[team];
+  if (!code) return '';
+  return '<img src="https://flagcdn.com/w20/' + code + '.png" class="flag-img" alt="' + team + '">';
 };
 
 APP.teamWeight = function(status) {

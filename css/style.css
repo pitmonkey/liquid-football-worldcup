@@ -266,6 +266,7 @@ body {
 
 .team-cell { display: flex; align-items: center; gap: 8px; }
 .team-flag { font-size: 17px; line-height: 1; }
+.flag-img { width: 20px; height: auto; vertical-align: middle; border-radius: 2px; flex-shrink: 0; }
 .team-info { display: flex; flex-direction: column; gap: 1px; }
 .team-name { font-size: 12px; color: #ccc; }
 .participant-label { font-family: var(--font-mono); font-size: 9px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; }
