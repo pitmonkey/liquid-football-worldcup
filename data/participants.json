@@ -1,5 +1,5 @@
 [
-  { "id":  1, "name": "Caleb",  "topTeam": "Mexico",       "bottomTeam": "Cape Verde" },
+  { "id":  1, "name": "Caleb",  "topTeam": "Mexico",       "bottomTeam": "Cape Verde Islands" },
   { "id":  2, "name": "Nick",   "topTeam": "Japan",         "bottomTeam": "Paraguay" },
   { "id":  3, "name": "Aydo",   "topTeam": "Iran",          "bottomTeam": "Ivory Coast" },
   { "id":  4, "name": "El Cap", "topTeam": "Croatia",       "bottomTeam": "Curaçao" },

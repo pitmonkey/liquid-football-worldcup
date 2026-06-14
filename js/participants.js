@@ -15,8 +15,7 @@ APP.renderParticipants = function() {
     var badgeClass = APP.badgeClass(status);
     var nameClass = eliminated ? ' out' : '';
     return '<td><div class="team-cell">'
-      + '<span class="team-flag">' + APP.flag(teamName) + '</span>'
-      + '<span class="p-team-name' + nameClass + '">' + teamName + '</span>'
+      + '<span class="p-team-name' + nameClass + '">' + teamName + ' (' + APP.flag(teamName) + ')</span>'
       + '</div></td>'
       + '<td><span class="lb-badge ' + badgeClass + '">' + label + '</span></td>';
   }

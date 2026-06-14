@@ -7,7 +7,7 @@ APP.FLAGS = {
   'Australia': '🇦🇺', 'Senegal': '🇸🇳', 'Austria': '🇦🇹', 'Argentina': '🇦🇷',
   'South Korea': '🇰🇷', 'Turkey': '🇹🇷', 'USA': '🇺🇸', 'Belgium': '🇧🇪',
   'France': '🇫🇷', 'Switzerland': '🇨🇭', 'Colombia': '🇨🇴', 'Uruguay': '🇺🇾',
-  'Cape Verde': '🇨🇻', 'Paraguay': '🇵🇾', 'Ivory Coast': '🇨🇮', 'Curaçao': '🇨🇼',
+  'Cape Verde Islands': '🇨🇻', 'Paraguay': '🇵🇾', 'Ivory Coast': '🇨🇮', 'Curaçao': '🇨🇼',
   'South Africa': '🇿🇦', 'Bosnia': '🇧🇦', 'New Zealand': '🇳🇿', 'Qatar': '🇶🇦',
   'Haiti': '🇭🇹', 'Uzbekistan': '🇺🇿', 'Saudi Arabia': '🇸🇦', 'Scotland': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
   'Egypt': '🇪🇬', 'Norway': '🇳🇴', 'Canada': '🇨🇦', 'Algeria': '🇩🇿',
