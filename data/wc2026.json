@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T20:59:28+00:00",
+  "lastUpdated": "2026-06-15T21:58:01+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -592,7 +592,7 @@
     "G": {
       "standings": [
         {
-          "team": "Egypt",
+          "team": "Belgium",
           "played": 1,
           "won": 0,
           "drawn": 1,
@@ -603,7 +603,7 @@
           "points": 1
         },
         {
-          "team": "Belgium",
+          "team": "Egypt",
           "played": 1,
           "won": 0,
           "drawn": 1,
@@ -640,10 +640,10 @@
         {
           "home": "Belgium",
           "away": "Egypt",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 1,
+          "awayScore": 1,
           "date": "2026-06-15T19:00:00Z",
-          "status": "IN_PLAY"
+          "status": "FINISHED"
         },
         {
           "home": "Iran",
@@ -687,23 +687,7 @@
         }
       ]
     },
-    "Atlantic Division": {
-      "standings": [
-        {
-          "team": "Cape Verde Islands",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 1
-        }
-      ],
-      "matches": []
-    },
-    "Central Division": {
+    "H": {
       "standings": [
         {
           "team": "Spain",
@@ -715,9 +699,91 @@
           "ga": 0,
           "gd": 0,
           "points": 1
+        },
+        {
+          "team": "Cape Verde Islands",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Saudi Arabia",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Uruguay",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         }
       ],
-      "matches": []
+      "matches": [
+        {
+          "home": "Spain",
+          "away": "Cape Verde Islands",
+          "homeScore": 0,
+          "awayScore": 0,
+          "date": "2026-06-15T16:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-15T22:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-21T16:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Uruguay",
+          "away": "Cape Verde Islands",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-21T22:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Uruguay",
+          "away": "Spain",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-27T00:00:00Z",
+          "status": "TIMED"
+        },
+        {
+          "home": "Cape Verde Islands",
+          "away": "Saudi Arabia",
+          "homeScore": null,
+          "awayScore": null,
+          "date": "2026-06-27T00:00:00Z",
+          "status": "TIMED"
+        }
+      ]
     },
     "I": {
       "standings": [
