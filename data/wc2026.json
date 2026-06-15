@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T19:14:45+00:00",
+  "lastUpdated": "2026-06-15T20:59:28+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -597,8 +597,8 @@
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
+          "gf": 1,
+          "ga": 1,
           "gd": 0,
           "points": 1
         },
@@ -608,8 +608,8 @@
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
+          "gf": 1,
+          "ga": 1,
           "gd": 0,
           "points": 1
         },
@@ -687,7 +687,7 @@
         }
       ]
     },
-    "H": {
+    "Atlantic Division": {
       "standings": [
         {
           "team": "Cape Verde Islands",
@@ -699,7 +699,12 @@
           "ga": 0,
           "gd": 0,
           "points": 1
-        },
+        }
+      ],
+      "matches": []
+    },
+    "Central Division": {
+      "standings": [
         {
           "team": "Spain",
           "played": 1,
@@ -710,80 +715,9 @@
           "ga": 0,
           "gd": 0,
           "points": 1
-        },
-        {
-          "team": "Saudi Arabia",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 0
-        },
-        {
-          "team": "Uruguay",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 0
         }
       ],
-      "matches": [
-        {
-          "home": "Spain",
-          "away": "Cape Verde Islands",
-          "homeScore": 0,
-          "awayScore": 0,
-          "date": "2026-06-15T16:00:00Z",
-          "status": "FINISHED"
-        },
-        {
-          "home": "Saudi Arabia",
-          "away": "Uruguay",
-          "homeScore": null,
-          "awayScore": null,
-          "date": "2026-06-15T22:00:00Z",
-          "status": "TIMED"
-        },
-        {
-          "home": "Spain",
-          "away": "Saudi Arabia",
-          "homeScore": null,
-          "awayScore": null,
-          "date": "2026-06-21T16:00:00Z",
-          "status": "TIMED"
-        },
-        {
-          "home": "Uruguay",
-          "away": "Cape Verde Islands",
-          "homeScore": null,
-          "awayScore": null,
-          "date": "2026-06-21T22:00:00Z",
-          "status": "TIMED"
-        },
-        {
-          "home": "Uruguay",
-          "away": "Spain",
-          "homeScore": null,
-          "awayScore": null,
-          "date": "2026-06-27T00:00:00Z",
-          "status": "TIMED"
-        },
-        {
-          "home": "Cape Verde Islands",
-          "away": "Saudi Arabia",
-          "homeScore": null,
-          "awayScore": null,
-          "date": "2026-06-27T00:00:00Z",
-          "status": "TIMED"
-        }
-      ]
+      "matches": []
     },
     "I": {
       "standings": [
