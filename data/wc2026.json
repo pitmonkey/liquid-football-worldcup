@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T17:36:04+00:00",
+  "lastUpdated": "2026-06-15T19:14:45+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -593,25 +593,25 @@
       "standings": [
         {
           "team": "Egypt",
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gf": 0,
           "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 1
         },
         {
           "team": "Belgium",
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gf": 0,
           "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 1
         },
         {
           "team": "Iran",
@@ -643,7 +643,7 @@
           "homeScore": null,
           "awayScore": null,
           "date": "2026-06-15T19:00:00Z",
-          "status": "TIMED"
+          "status": "IN_PLAY"
         },
         {
           "home": "Iran",
@@ -738,10 +738,10 @@
         {
           "home": "Spain",
           "away": "Cape Verde Islands",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 0,
+          "awayScore": 0,
           "date": "2026-06-15T16:00:00Z",
-          "status": "IN_PLAY"
+          "status": "FINISHED"
         },
         {
           "home": "Saudi Arabia",
