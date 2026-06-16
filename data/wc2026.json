@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T07:49:27+00:00",
+  "lastUpdated": "2026-06-16T09:43:00+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -592,7 +592,7 @@
     "G": {
       "standings": [
         {
-          "team": "Iran",
+          "team": "New Zealand",
           "played": 1,
           "won": 0,
           "drawn": 1,
@@ -603,7 +603,7 @@
           "points": 1
         },
         {
-          "team": "New Zealand",
+          "team": "Iran",
           "played": 1,
           "won": 0,
           "drawn": 1,
@@ -690,7 +690,7 @@
     "H": {
       "standings": [
         {
-          "team": "Saudi Arabia",
+          "team": "Uruguay",
           "played": 1,
           "won": 0,
           "drawn": 1,
@@ -701,7 +701,7 @@
           "points": 1
         },
         {
-          "team": "Uruguay",
+          "team": "Saudi Arabia",
           "played": 1,
           "won": 0,
           "drawn": 1,
