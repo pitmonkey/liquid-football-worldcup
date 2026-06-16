@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T20:59:42+00:00",
+  "lastUpdated": "2026-06-16T21:57:07+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -790,24 +790,13 @@
         {
           "team": "France",
           "played": 1,
-          "won": 0,
-          "drawn": 1,
+          "won": 1,
+          "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 1
-        },
-        {
-          "team": "Senegal",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 1
+          "gf": 3,
+          "ga": 1,
+          "gd": 2,
+          "points": 3
         },
         {
           "team": "Iraq",
@@ -830,16 +819,27 @@
           "ga": 0,
           "gd": 0,
           "points": 0
+        },
+        {
+          "team": "Senegal",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 3,
+          "gd": -2,
+          "points": 0
         }
       ],
       "matches": [
         {
           "home": "France",
           "away": "Senegal",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 3,
+          "awayScore": 1,
           "date": "2026-06-16T19:00:00Z",
-          "status": "IN_PLAY"
+          "status": "FINISHED"
         },
         {
           "home": "Iraq",
