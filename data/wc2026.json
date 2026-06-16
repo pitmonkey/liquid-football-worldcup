@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T22:40:37+00:00",
+  "lastUpdated": "2026-06-16T23:28:50+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -799,26 +799,26 @@
           "points": 3
         },
         {
+          "team": "Norway",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 1,
+          "gd": 1,
+          "points": 3
+        },
+        {
           "team": "Iraq",
           "played": 1,
           "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 1
-        },
-        {
-          "team": "Norway",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 1
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 2,
+          "gd": -1,
+          "points": 0
         },
         {
           "team": "Senegal",
