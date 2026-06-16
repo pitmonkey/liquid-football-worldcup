@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T01:50:18+00:00",
+  "lastUpdated": "2026-06-16T03:02:58+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -592,15 +592,26 @@
     "G": {
       "standings": [
         {
+          "team": "Iran",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 2,
+          "ga": 2,
+          "gd": 0,
+          "points": 1
+        },
+        {
           "team": "New Zealand",
           "played": 1,
-          "won": 1,
-          "drawn": 0,
+          "won": 0,
+          "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 0,
-          "gd": 1,
-          "points": 3
+          "gf": 2,
+          "ga": 2,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Belgium",
@@ -623,17 +634,6 @@
           "ga": 1,
           "gd": 0,
           "points": 1
-        },
-        {
-          "team": "Iran",
-          "played": 1,
-          "won": 0,
-          "drawn": 0,
-          "lost": 1,
-          "gf": 0,
-          "ga": 1,
-          "gd": -1,
-          "points": 0
         }
       ],
       "matches": [
