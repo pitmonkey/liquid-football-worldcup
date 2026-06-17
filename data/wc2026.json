@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T17:58:38+00:00",
+  "lastUpdated": "2026-06-17T19:01:04+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -984,15 +984,26 @@
     "K": {
       "standings": [
         {
-          "team": "Portugal",
+          "team": "DR Congo",
           "played": 1,
-          "won": 1,
-          "drawn": 0,
+          "won": 0,
+          "drawn": 1,
           "lost": 0,
           "gf": 1,
-          "ga": 0,
-          "gd": 1,
-          "points": 3
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Portugal",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Colombia",
@@ -1014,17 +1025,6 @@
           "gf": 0,
           "ga": 0,
           "gd": 0,
-          "points": 0
-        },
-        {
-          "team": "DR Congo",
-          "played": 1,
-          "won": 0,
-          "drawn": 0,
-          "lost": 1,
-          "gf": 0,
-          "ga": 1,
-          "gd": -1,
           "points": 0
         }
       ],
