@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T22:31:40+00:00",
+  "lastUpdated": "2026-06-17T23:29:32+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -150,8 +150,8 @@
         {
           "home": "Canada",
           "away": "Bosnia",
-          "homeScore": 1,
-          "awayScore": 1,
+          "homeScore": null,
+          "awayScore": null,
           "date": "2026-06-12T19:00:00Z",
           "status": "FINISHED"
         },
@@ -1094,25 +1094,25 @@
         },
         {
           "team": "Ghana",
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gf": 0,
           "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 1
         },
         {
           "team": "Panama",
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gf": 0,
           "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 1
         },
         {
           "team": "Croatia",
@@ -1141,7 +1141,7 @@
           "homeScore": null,
           "awayScore": null,
           "date": "2026-06-17T23:00:00Z",
-          "status": "TIMED"
+          "status": "IN_PLAY"
         },
         {
           "home": "England",
