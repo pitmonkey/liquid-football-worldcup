@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T18:06:03+00:00",
+  "lastUpdated": "2026-06-18T19:42:04+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -103,14 +103,25 @@
       "standings": [
         {
           "team": "Switzerland",
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
           "gf": 1,
           "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 2
+        },
+        {
+          "team": "Bosnia",
+          "played": 2,
+          "won": 0,
+          "drawn": 2,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 2
         },
         {
           "team": "Canada",
@@ -125,17 +136,6 @@
         },
         {
           "team": "Qatar",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 1
-        },
-        {
-          "team": "Bosnia",
           "played": 1,
           "won": 0,
           "drawn": 1,
