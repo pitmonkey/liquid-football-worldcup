@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T22:17:34+00:00",
+  "lastUpdated": "2026-06-19T23:19:23+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -200,26 +200,26 @@
     "C": {
       "standings": [
         {
-          "team": "Scotland",
+          "team": "Morocco",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 0,
+          "gf": 2,
+          "ga": 1,
           "gd": 1,
           "points": 4
         },
         {
-          "team": "Morocco",
+          "team": "Scotland",
           "played": 2,
-          "won": 0,
-          "drawn": 2,
-          "lost": 0,
+          "won": 1,
+          "drawn": 0,
+          "lost": 1,
           "gf": 1,
           "ga": 1,
           "gd": 0,
-          "points": 2
+          "points": 3
         },
         {
           "team": "Brazil",
