@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-06-19T01:53:55+00:00",
+  "lastUpdated": "2026-06-19T03:03:13+00:00",
   "groups": {
     "A": {
       "standings": [
         {
           "team": "Mexico",
           "played": 2,
-          "won": 1,
-          "drawn": 1,
+          "won": 2,
+          "drawn": 0,
           "lost": 0,
-          "gf": 2,
+          "gf": 3,
           "ga": 0,
-          "gd": 2,
-          "points": 4
+          "gd": 3,
+          "points": 6
         },
         {
           "team": "South Korea",
           "played": 2,
           "won": 1,
-          "drawn": 1,
-          "lost": 0,
+          "drawn": 0,
+          "lost": 1,
           "gf": 2,
-          "ga": 1,
-          "gd": 1,
-          "points": 4
+          "ga": 2,
+          "gd": 0,
+          "points": 3
         },
         {
           "team": "Czech Republic",
