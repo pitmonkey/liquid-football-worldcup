@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T18:31:51+00:00",
+  "lastUpdated": "2026-06-19T19:31:00+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -299,24 +299,24 @@
       "standings": [
         {
           "team": "USA",
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gf": 4,
+          "gf": 5,
           "ga": 1,
-          "gd": 3,
-          "points": 3
+          "gd": 4,
+          "points": 6
         },
         {
           "team": "Australia",
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "gf": 2,
-          "ga": 0,
-          "gd": 2,
+          "ga": 1,
+          "gd": 1,
           "points": 3
         },
         {
@@ -365,7 +365,7 @@
           "homeScore": null,
           "awayScore": null,
           "date": "2026-06-19T19:00:00Z",
-          "status": "TIMED"
+          "status": "IN_PLAY"
         },
         {
           "home": "Turkey",
