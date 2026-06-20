@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T03:01:11+00:00",
+  "lastUpdated": "2026-06-20T05:26:07+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -320,26 +320,26 @@
           "points": 3
         },
         {
+          "team": "Paraguay",
+          "played": 2,
+          "won": 1,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 2,
+          "ga": 4,
+          "gd": -2,
+          "points": 3
+        },
+        {
           "team": "Turkey",
           "played": 2,
           "won": 0,
-          "drawn": 1,
-          "lost": 1,
+          "drawn": 0,
+          "lost": 2,
           "gf": 0,
-          "ga": 2,
-          "gd": -2,
-          "points": 1
-        },
-        {
-          "team": "Paraguay",
-          "played": 2,
-          "won": 0,
-          "drawn": 1,
-          "lost": 1,
-          "gf": 1,
-          "ga": 4,
+          "ga": 3,
           "gd": -3,
-          "points": 1
+          "points": 0
         }
       ],
       "matches": [
@@ -370,10 +370,10 @@
         {
           "home": "Turkey",
           "away": "Paraguay",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 0,
+          "awayScore": 1,
           "date": "2026-06-20T03:00:00Z",
-          "status": "TIMED"
+          "status": "FINISHED"
         },
         {
           "home": "Turkey",
