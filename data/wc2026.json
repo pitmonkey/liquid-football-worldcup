@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T00:26:30+00:00",
+  "lastUpdated": "2026-06-20T01:39:33+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -211,6 +211,17 @@
           "points": 4
         },
         {
+          "team": "Brazil",
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 4
+        },
+        {
           "team": "Scotland",
           "played": 2,
           "won": 1,
@@ -222,25 +233,14 @@
           "points": 3
         },
         {
-          "team": "Brazil",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 1
-        },
-        {
           "team": "Haiti",
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "gf": 0,
-          "ga": 1,
-          "gd": -1,
+          "ga": 4,
+          "gd": -4,
           "points": 0
         }
       ],
@@ -275,7 +275,7 @@
           "homeScore": null,
           "awayScore": null,
           "date": "2026-06-20T00:30:00Z",
-          "status": "TIMED"
+          "status": "PAUSED"
         },
         {
           "home": "Morocco",
