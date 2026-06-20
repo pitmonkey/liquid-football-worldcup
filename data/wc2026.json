@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T21:26:53+00:00",
+  "lastUpdated": "2026-06-20T22:23:11+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -396,25 +396,25 @@
     "E": {
       "standings": [
         {
-          "team": "Ivory Coast",
+          "team": "Germany",
           "played": 2,
           "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gf": 2,
-          "ga": 0,
-          "gd": 2,
+          "gf": 9,
+          "ga": 2,
+          "gd": 7,
           "points": 6
         },
         {
-          "team": "Germany",
+          "team": "Ivory Coast",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gf": 7,
+          "gf": 2,
           "ga": 2,
-          "gd": 5,
+          "gd": 0,
           "points": 3
         },
         {
@@ -460,10 +460,10 @@
         {
           "home": "Germany",
           "away": "Ivory Coast",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 2,
+          "awayScore": 1,
           "date": "2026-06-20T20:00:00Z",
-          "status": "IN_PLAY"
+          "status": "FINISHED"
         },
         {
           "home": "Ecuador",
