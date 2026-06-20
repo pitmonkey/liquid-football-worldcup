@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T23:19:23+00:00",
+  "lastUpdated": "2026-06-20T00:26:30+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -264,10 +264,10 @@
         {
           "home": "Scotland",
           "away": "Morocco",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 0,
+          "awayScore": 1,
           "date": "2026-06-19T22:00:00Z",
-          "status": "IN_PLAY"
+          "status": "FINISHED"
         },
         {
           "home": "Brazil",
