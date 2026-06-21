@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T15:32:41+00:00",
+  "lastUpdated": "2026-06-21T16:30:10+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -690,6 +690,17 @@
     "H": {
       "standings": [
         {
+          "team": "Spain",
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 3,
+          "ga": 0,
+          "gd": 3,
+          "points": 4
+        },
+        {
           "team": "Uruguay",
           "played": 1,
           "won": 0,
@@ -702,24 +713,13 @@
         },
         {
           "team": "Saudi Arabia",
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
+          "lost": 1,
           "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 1
-        },
-        {
-          "team": "Spain",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
+          "ga": 4,
+          "gd": -3,
           "points": 1
         },
         {
@@ -757,7 +757,7 @@
           "homeScore": null,
           "awayScore": null,
           "date": "2026-06-21T16:00:00Z",
-          "status": "TIMED"
+          "status": "IN_PLAY"
         },
         {
           "home": "Uruguay",
