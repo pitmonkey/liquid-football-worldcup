@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T20:28:29+00:00",
+  "lastUpdated": "2026-06-21T21:26:29+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -656,10 +656,10 @@
         {
           "home": "Belgium",
           "away": "Iran",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 0,
+          "awayScore": 0,
           "date": "2026-06-21T19:00:00Z",
-          "status": "IN_PLAY"
+          "status": "FINISHED"
         },
         {
           "home": "New Zealand",
@@ -754,7 +754,7 @@
         {
           "home": "Spain",
           "away": "Saudi Arabia",
-          "homeScore": 5,
+          "homeScore": 4,
           "awayScore": 0,
           "date": "2026-06-21T16:00:00Z",
           "status": "FINISHED"
