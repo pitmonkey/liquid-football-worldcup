@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T01:46:28+00:00",
+  "lastUpdated": "2026-06-21T03:02:30+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -468,10 +468,10 @@
         {
           "home": "Ecuador",
           "away": "Curaçao",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 0,
+          "awayScore": 0,
           "date": "2026-06-21T00:00:00Z",
-          "status": "IN_PLAY"
+          "status": "FINISHED"
         },
         {
           "home": "Ecuador",
