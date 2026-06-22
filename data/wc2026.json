@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T20:01:20+00:00",
+  "lastUpdated": "2026-06-22T21:40:37+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -788,6 +788,17 @@
     "I": {
       "standings": [
         {
+          "team": "France",
+          "played": 2,
+          "won": 2,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 6
+        },
+        {
           "team": "Norway",
           "played": 1,
           "won": 1,
@@ -796,17 +807,6 @@
           "gf": 4,
           "ga": 1,
           "gd": 3,
-          "points": 3
-        },
-        {
-          "team": "France",
-          "played": 1,
-          "won": 1,
-          "drawn": 0,
-          "lost": 0,
-          "gf": 3,
-          "ga": 1,
-          "gd": 2,
           "points": 3
         },
         {
@@ -822,13 +822,13 @@
         },
         {
           "team": "Iraq",
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "gf": 1,
-          "ga": 4,
-          "gd": -3,
+          "ga": 5,
+          "gd": -4,
           "points": 0
         }
       ],
@@ -855,7 +855,7 @@
           "homeScore": null,
           "awayScore": null,
           "date": "2026-06-22T21:00:00Z",
-          "status": "TIMED"
+          "status": "IN_PLAY"
         },
         {
           "home": "Norway",
