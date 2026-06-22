@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T16:32:11+00:00",
+  "lastUpdated": "2026-06-22T18:20:18+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -887,24 +887,24 @@
       "standings": [
         {
           "team": "Argentina",
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
+          "gf": 4,
           "ga": 0,
-          "gd": 3,
-          "points": 3
+          "gd": 4,
+          "points": 6
         },
         {
           "team": "Austria",
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "gf": 3,
-          "ga": 1,
-          "gd": 2,
+          "ga": 2,
+          "gd": 1,
           "points": 3
         },
         {
@@ -953,7 +953,7 @@
           "homeScore": null,
           "awayScore": null,
           "date": "2026-06-22T17:00:00Z",
-          "status": "TIMED"
+          "status": "IN_PLAY"
         },
         {
           "home": "Jordan",
