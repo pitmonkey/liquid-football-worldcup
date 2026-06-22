@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T00:28:25+00:00",
+  "lastUpdated": "2026-06-22T01:46:49+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -592,6 +592,17 @@
     "G": {
       "standings": [
         {
+          "team": "New Zealand",
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 3,
+          "ga": 2,
+          "gd": 1,
+          "points": 4
+        },
+        {
           "team": "Iran",
           "played": 2,
           "won": 0,
@@ -614,25 +625,14 @@
           "points": 2
         },
         {
-          "team": "New Zealand",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 2,
-          "ga": 2,
-          "gd": 0,
-          "points": 1
-        },
-        {
           "team": "Egypt",
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
+          "lost": 1,
           "gf": 1,
-          "ga": 1,
-          "gd": 0,
+          "ga": 2,
+          "gd": -1,
           "points": 1
         }
       ],
@@ -667,7 +667,7 @@
           "homeScore": null,
           "awayScore": null,
           "date": "2026-06-22T01:00:00Z",
-          "status": "TIMED"
+          "status": "IN_PLAY"
         },
         {
           "home": "New Zealand",
