@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T03:02:47+00:00",
+  "lastUpdated": "2026-06-22T05:44:26+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -664,10 +664,10 @@
         {
           "home": "New Zealand",
           "away": "Egypt",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 1,
+          "awayScore": 3,
           "date": "2026-06-22T01:00:00Z",
-          "status": "IN_PLAY"
+          "status": "FINISHED"
         },
         {
           "home": "New Zealand",
