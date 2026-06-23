@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T18:36:14+00:00",
+  "lastUpdated": "2026-06-23T19:33:39+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -989,9 +989,9 @@
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gf": 5,
+          "gf": 6,
           "ga": 1,
-          "gd": 4,
+          "gd": 5,
           "points": 4
         },
         {
@@ -1023,8 +1023,8 @@
           "drawn": 0,
           "lost": 2,
           "gf": 1,
-          "ga": 7,
-          "gd": -6,
+          "ga": 8,
+          "gd": -7,
           "points": 0
         }
       ],
@@ -1048,10 +1048,10 @@
         {
           "home": "Portugal",
           "away": "Uzbekistan",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 5,
+          "awayScore": 0,
           "date": "2026-06-23T17:00:00Z",
-          "status": "IN_PLAY"
+          "status": "FINISHED"
         },
         {
           "home": "Colombia",
