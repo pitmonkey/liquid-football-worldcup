@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T21:30:06+00:00",
+  "lastUpdated": "2026-06-23T22:23:25+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -150,8 +150,8 @@
         {
           "home": "Canada",
           "away": "Bosnia",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 1,
+          "awayScore": 1,
           "date": "2026-06-12T19:00:00Z",
           "status": "FINISHED"
         },
@@ -1146,10 +1146,10 @@
         {
           "home": "England",
           "away": "Ghana",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 0,
+          "awayScore": 0,
           "date": "2026-06-23T20:00:00Z",
-          "status": "LIVE"
+          "status": "FINISHED"
         },
         {
           "home": "Panama",
