@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T15:44:42+00:00",
+  "lastUpdated": "2026-06-24T16:40:34+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -150,8 +150,8 @@
         {
           "home": "Canada",
           "away": "Bosnia",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 1,
+          "awayScore": 1,
           "date": "2026-06-12T19:00:00Z",
           "status": "FINISHED"
         },
