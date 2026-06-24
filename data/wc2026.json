@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T03:00:58+00:00",
+  "lastUpdated": "2026-06-24T05:16:17+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -984,6 +984,17 @@
     "K": {
       "standings": [
         {
+          "team": "Colombia",
+          "played": 2,
+          "won": 2,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 6
+        },
+        {
           "team": "Portugal",
           "played": 2,
           "won": 1,
@@ -995,26 +1006,15 @@
           "points": 4
         },
         {
-          "team": "Colombia",
-          "played": 2,
-          "won": 1,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 3,
-          "ga": 1,
-          "gd": 2,
-          "points": 4
-        },
-        {
           "team": "DR Congo",
           "played": 2,
           "won": 0,
-          "drawn": 2,
-          "lost": 0,
+          "drawn": 1,
+          "lost": 1,
           "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 2
+          "ga": 2,
+          "gd": -1,
+          "points": 1
         },
         {
           "team": "Uzbekistan",
@@ -1056,10 +1056,10 @@
         {
           "home": "Colombia",
           "away": "DR Congo",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 1,
+          "awayScore": 0,
           "date": "2026-06-24T02:00:00Z",
-          "status": "PAUSED"
+          "status": "FINISHED"
         },
         {
           "home": "Colombia",
