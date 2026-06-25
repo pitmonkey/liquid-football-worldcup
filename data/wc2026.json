@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T20:36:21+00:00",
+  "lastUpdated": "2026-06-25T21:30:38+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -412,9 +412,9 @@
           "won": 2,
           "drawn": 0,
           "lost": 1,
-          "gf": 3,
+          "gf": 4,
           "ga": 2,
-          "gd": 1,
+          "gd": 2,
           "points": 6
         },
         {
@@ -435,8 +435,8 @@
           "drawn": 1,
           "lost": 2,
           "gf": 1,
-          "ga": 8,
-          "gd": -7,
+          "ga": 9,
+          "gd": -8,
           "points": 1
         }
       ],
@@ -479,7 +479,7 @@
           "homeScore": null,
           "awayScore": null,
           "date": "2026-06-25T20:00:00Z",
-          "status": "LIVE"
+          "status": "IN_PLAY"
         },
         {
           "home": "Curaçao",
@@ -487,7 +487,7 @@
           "homeScore": null,
           "awayScore": null,
           "date": "2026-06-25T20:00:00Z",
-          "status": "LIVE"
+          "status": "IN_PLAY"
         }
       ]
     },
