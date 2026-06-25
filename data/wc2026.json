@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T03:01:07+00:00",
+  "lastUpdated": "2026-06-25T05:17:35+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -84,18 +84,18 @@
         {
           "home": "Czech Republic",
           "away": "Mexico",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 0,
+          "awayScore": 3,
           "date": "2026-06-25T01:00:00Z",
-          "status": "IN_PLAY"
+          "status": "FINISHED"
         },
         {
           "home": "South Africa",
           "away": "South Korea",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 1,
+          "awayScore": 0,
           "date": "2026-06-25T01:00:00Z",
-          "status": "IN_PLAY"
+          "status": "FINISHED"
         }
       ]
     },
