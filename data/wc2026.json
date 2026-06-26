@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T23:27:01+00:00",
+  "lastUpdated": "2026-06-26T00:27:45+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -496,13 +496,13 @@
         {
           "team": "Netherlands",
           "played": 3,
-          "won": 1,
-          "drawn": 2,
+          "won": 2,
+          "drawn": 1,
           "lost": 0,
-          "gf": 7,
+          "gf": 9,
           "ga": 3,
-          "gd": 4,
-          "points": 5
+          "gd": 6,
+          "points": 7
         },
         {
           "team": "Japan",
@@ -530,12 +530,12 @@
           "team": "Tunisia",
           "played": 3,
           "won": 0,
-          "drawn": 1,
-          "lost": 2,
+          "drawn": 0,
+          "lost": 3,
           "gf": 1,
-          "ga": 9,
-          "gd": -8,
-          "points": 1
+          "ga": 11,
+          "gd": -10,
+          "points": 0
         }
       ],
       "matches": [
