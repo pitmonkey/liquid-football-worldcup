@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T03:01:23+00:00",
+  "lastUpdated": "2026-06-26T05:22:39+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -303,8 +303,8 @@
           "won": 2,
           "drawn": 0,
           "lost": 1,
-          "gf": 7,
-          "ga": 3,
+          "gf": 8,
+          "ga": 4,
           "gd": 4,
           "points": 6
         },
@@ -336,8 +336,8 @@
           "won": 1,
           "drawn": 0,
           "lost": 2,
-          "gf": 2,
-          "ga": 4,
+          "gf": 3,
+          "ga": 5,
           "gd": -2,
           "points": 3
         }
@@ -378,18 +378,18 @@
         {
           "home": "Turkey",
           "away": "USA",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 3,
+          "awayScore": 2,
           "date": "2026-06-26T02:00:00Z",
-          "status": "PAUSED"
+          "status": "FINISHED"
         },
         {
           "home": "Paraguay",
           "away": "Australia",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 0,
+          "awayScore": 0,
           "date": "2026-06-26T02:00:00Z",
-          "status": "PAUSED"
+          "status": "FINISHED"
         }
       ]
     },
