@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T09:00:46+00:00",
+  "lastUpdated": "2026-06-26T10:58:04+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -84,18 +84,18 @@
         {
           "home": "Czech Republic",
           "away": "Mexico",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 0,
+          "awayScore": 3,
           "date": "2026-06-25T01:00:00Z",
-          "status": "TIMED"
+          "status": "FINISHED"
         },
         {
           "home": "South Africa",
           "away": "South Korea",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 1,
+          "awayScore": 0,
           "date": "2026-06-25T01:00:00Z",
-          "status": "TIMED"
+          "status": "FINISHED"
         }
       ]
     },
@@ -476,18 +476,18 @@
         {
           "home": "Ecuador",
           "away": "Germany",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 2,
+          "awayScore": 1,
           "date": "2026-06-25T20:00:00Z",
-          "status": "TIMED"
+          "status": "FINISHED"
         },
         {
           "home": "Curaçao",
           "away": "Ivory Coast",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 0,
+          "awayScore": 2,
           "date": "2026-06-25T20:00:00Z",
-          "status": "TIMED"
+          "status": "FINISHED"
         }
       ]
     },
@@ -574,18 +574,18 @@
         {
           "home": "Tunisia",
           "away": "Netherlands",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 1,
+          "awayScore": 3,
           "date": "2026-06-25T23:00:00Z",
-          "status": "TIMED"
+          "status": "FINISHED"
         },
         {
           "home": "Japan",
           "away": "Sweden",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 1,
+          "awayScore": 1,
           "date": "2026-06-25T23:00:00Z",
-          "status": "TIMED"
+          "status": "FINISHED"
         }
       ]
     },
@@ -1181,16 +1181,16 @@
   "knockout": {
     "R32": [
       {
-        "home": null,
-        "away": null,
+        "home": "South Africa",
+        "away": "Canada",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-06-28T19:00:00Z",
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "Brazil",
+        "away": "Japan",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-06-29T17:00:00Z",
@@ -1205,8 +1205,8 @@
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "Netherlands",
+        "away": "Morocco",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-06-30T01:00:00Z",
@@ -1254,7 +1254,7 @@
       },
       {
         "home": "USA",
-        "away": null,
+        "away": "Bosnia",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-02T00:00:00Z",
@@ -1277,7 +1277,7 @@
         "status": "TIMED"
       },
       {
-        "home": null,
+        "home": "Switzerland",
         "away": null,
         "homeScore": null,
         "awayScore": null,
@@ -1285,7 +1285,7 @@
         "status": "TIMED"
       },
       {
-        "home": null,
+        "home": "Australia",
         "away": null,
         "homeScore": null,
         "awayScore": null,
@@ -1445,8 +1445,8 @@
       "champion": false
     },
     "South Africa": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "South Korea": {
@@ -1460,13 +1460,13 @@
       "champion": false
     },
     "Canada": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Bosnia": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "USA": {
@@ -1485,18 +1485,18 @@
       "champion": false
     },
     "Switzerland": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Brazil": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Morocco": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Haiti": {
@@ -1510,8 +1510,8 @@
       "champion": false
     },
     "Australia": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Turkey": {
@@ -1530,13 +1530,13 @@
       "champion": false
     },
     "Netherlands": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Japan": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Ivory Coast": {
