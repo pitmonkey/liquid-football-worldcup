@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T20:21:26+00:00",
+  "lastUpdated": "2026-06-27T21:21:18+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -681,7 +681,7 @@
           "home": "Egypt",
           "away": "Iran",
           "homeScore": 1,
-          "awayScore": 2,
+          "awayScore": 1,
           "date": "2026-06-27T03:00:00Z",
           "status": "FINISHED"
         }
@@ -868,18 +868,18 @@
         {
           "home": "Norway",
           "away": "France",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 1,
+          "awayScore": 4,
           "date": "2026-06-26T19:00:00Z",
-          "status": "TIMED"
+          "status": "FINISHED"
         },
         {
           "home": "Senegal",
           "away": "Iraq",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 5,
+          "awayScore": 0,
           "date": "2026-06-26T19:00:00Z",
-          "status": "TIMED"
+          "status": "FINISHED"
         }
       ]
     },
@@ -1083,47 +1083,47 @@
       "standings": [
         {
           "team": "England",
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
           "gf": 4,
           "ga": 2,
           "gd": 2,
-          "points": 4
+          "points": 5
         },
         {
           "team": "Ghana",
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
           "gf": 1,
           "ga": 0,
           "gd": 1,
-          "points": 4
+          "points": 5
         },
         {
           "team": "Croatia",
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
           "gf": 3,
           "ga": 4,
           "gd": -1,
-          "points": 3
+          "points": 4
         },
         {
           "team": "Panama",
-          "played": 2,
+          "played": 3,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 2,
           "gf": 0,
           "ga": 2,
           "gd": -2,
-          "points": 0
+          "points": 1
         }
       ],
       "matches": [
@@ -1165,7 +1165,7 @@
           "homeScore": null,
           "awayScore": null,
           "date": "2026-06-27T21:00:00Z",
-          "status": "TIMED"
+          "status": "IN_PLAY"
         },
         {
           "home": "Croatia",
@@ -1173,7 +1173,7 @@
           "homeScore": null,
           "awayScore": null,
           "date": "2026-06-27T21:00:00Z",
-          "status": "TIMED"
+          "status": "LIVE"
         }
       ]
     }
@@ -1213,7 +1213,7 @@
         "status": "TIMED"
       },
       {
-        "home": null,
+        "home": "Ivory Coast",
         "away": null,
         "homeScore": null,
         "awayScore": null,
@@ -1540,8 +1540,8 @@
       "champion": false
     },
     "Ivory Coast": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Ecuador": {
