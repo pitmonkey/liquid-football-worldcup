@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T19:28:23+00:00",
+  "lastUpdated": "2026-06-27T20:21:26+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -681,7 +681,7 @@
           "home": "Egypt",
           "away": "Iran",
           "homeScore": 1,
-          "awayScore": 1,
+          "awayScore": 2,
           "date": "2026-06-27T03:00:00Z",
           "status": "FINISHED"
         }
@@ -868,18 +868,18 @@
         {
           "home": "Norway",
           "away": "France",
-          "homeScore": 1,
-          "awayScore": 4,
+          "homeScore": null,
+          "awayScore": null,
           "date": "2026-06-26T19:00:00Z",
-          "status": "FINISHED"
+          "status": "TIMED"
         },
         {
           "home": "Senegal",
           "away": "Iraq",
-          "homeScore": 5,
-          "awayScore": 0,
+          "homeScore": null,
+          "awayScore": null,
           "date": "2026-06-26T19:00:00Z",
-          "status": "FINISHED"
+          "status": "TIMED"
         }
       ]
     },
@@ -1213,7 +1213,7 @@
         "status": "TIMED"
       },
       {
-        "home": "Ivory Coast",
+        "home": null,
         "away": null,
         "homeScore": null,
         "awayScore": null,
@@ -1540,8 +1540,8 @@
       "champion": false
     },
     "Ivory Coast": {
-      "round": "R32",
-      "eliminated": false,
+      "round": "GROUP",
+      "eliminated": true,
       "champion": false
     },
     "Ecuador": {
