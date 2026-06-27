@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T22:19:47+00:00",
+  "lastUpdated": "2026-06-27T23:19:51+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1082,26 +1082,26 @@
     "L": {
       "standings": [
         {
+          "team": "England",
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 6,
+          "ga": 2,
+          "gd": 4,
+          "points": 7
+        },
+        {
           "team": "Croatia",
           "played": 3,
           "won": 2,
           "drawn": 0,
           "lost": 1,
-          "gf": 4,
-          "ga": 4,
+          "gf": 5,
+          "ga": 5,
           "gd": 0,
           "points": 6
-        },
-        {
-          "team": "England",
-          "played": 3,
-          "won": 1,
-          "drawn": 2,
-          "lost": 0,
-          "gf": 4,
-          "ga": 2,
-          "gd": 2,
-          "points": 5
         },
         {
           "team": "Ghana",
@@ -1109,8 +1109,8 @@
           "won": 1,
           "drawn": 1,
           "lost": 1,
-          "gf": 1,
-          "ga": 1,
+          "gf": 2,
+          "ga": 2,
           "gd": 0,
           "points": 4
         },
@@ -1118,12 +1118,12 @@
           "team": "Panama",
           "played": 3,
           "won": 0,
-          "drawn": 1,
-          "lost": 2,
+          "drawn": 0,
+          "lost": 3,
           "gf": 0,
-          "ga": 2,
-          "gd": -2,
-          "points": 1
+          "ga": 4,
+          "gd": -4,
+          "points": 0
         }
       ],
       "matches": [
@@ -1162,18 +1162,18 @@
         {
           "home": "Panama",
           "away": "England",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 0,
+          "awayScore": 2,
           "date": "2026-06-27T21:00:00Z",
-          "status": "IN_PLAY"
+          "status": "FINISHED"
         },
         {
           "home": "Croatia",
           "away": "Ghana",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 2,
+          "awayScore": 1,
           "date": "2026-06-27T21:00:00Z",
-          "status": "IN_PLAY"
+          "status": "FINISHED"
         }
       ]
     }
@@ -1181,23 +1181,23 @@
   "knockout": {
     "R32": [
       {
-        "home": null,
-        "away": null,
+        "home": "South Africa",
+        "away": "Canada",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-06-28T19:00:00Z",
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "Brazil",
+        "away": "Japan",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-06-29T17:00:00Z",
         "status": "TIMED"
       },
       {
-        "home": null,
+        "home": "Germany",
         "away": null,
         "homeScore": null,
         "awayScore": null,
@@ -1205,15 +1205,15 @@
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "Netherlands",
+        "away": "Morocco",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-06-30T01:00:00Z",
         "status": "TIMED"
       },
       {
-        "home": null,
+        "home": "Ivory Coast",
         "away": null,
         "homeScore": null,
         "awayScore": null,
@@ -1229,7 +1229,7 @@
         "status": "TIMED"
       },
       {
-        "home": null,
+        "home": "Mexico",
         "away": null,
         "homeScore": null,
         "awayScore": null,
@@ -1253,8 +1253,8 @@
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "USA",
+        "away": "Bosnia",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-02T00:00:00Z",
@@ -1277,7 +1277,7 @@
         "status": "TIMED"
       },
       {
-        "home": null,
+        "home": "Switzerland",
         "away": null,
         "homeScore": null,
         "awayScore": null,
@@ -1285,7 +1285,7 @@
         "status": "TIMED"
       },
       {
-        "home": null,
+        "home": "Australia",
         "away": null,
         "homeScore": null,
         "awayScore": null,
@@ -1293,7 +1293,7 @@
         "status": "TIMED"
       },
       {
-        "home": null,
+        "home": "Argentina",
         "away": null,
         "homeScore": null,
         "awayScore": null,
@@ -1440,243 +1440,243 @@
   },
   "teamStatus": {
     "Mexico": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "South Africa": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "South Korea": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Czech Republic": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Canada": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "Bosnia": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "USA": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "Paraguay": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Qatar": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Switzerland": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "Brazil": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "Morocco": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "Haiti": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Scotland": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Australia": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "Turkey": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Germany": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "Curaçao": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Netherlands": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "Japan": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "Ivory Coast": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "Ecuador": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Sweden": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Tunisia": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Spain": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Cape Verde Islands": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Belgium": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Egypt": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Saudi Arabia": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Uruguay": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Iran": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "New Zealand": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "France": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Senegal": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Iraq": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Norway": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Argentina": {
-      "round": "GROUP",
+      "round": "R32",
       "eliminated": false,
       "champion": false
     },
     "Algeria": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Austria": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Jordan": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Portugal": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "DR Congo": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "England": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Croatia": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Ghana": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Panama": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Uzbekistan": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Colombia": {
       "round": "GROUP",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     }
   }
