@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T20:23:37+00:00",
+  "lastUpdated": "2026-06-28T21:21:11+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1183,10 +1183,10 @@
       {
         "home": "South Africa",
         "away": "Canada",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 0,
+        "awayScore": 1,
         "date": "2026-06-28T19:00:00Z",
-        "status": "IN_PLAY"
+        "status": "FINISHED"
       },
       {
         "home": "Brazil",
@@ -1446,7 +1446,7 @@
     },
     "South Africa": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "South Korea": {
