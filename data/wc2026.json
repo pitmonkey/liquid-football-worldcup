@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T03:01:34+00:00",
+  "lastUpdated": "2026-06-28T05:26:46+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -891,8 +891,8 @@
           "won": 3,
           "drawn": 0,
           "lost": 0,
-          "gf": 7,
-          "ga": 0,
+          "gf": 8,
+          "ga": 1,
           "gd": 7,
           "points": 9
         },
@@ -902,8 +902,8 @@
           "won": 1,
           "drawn": 1,
           "lost": 1,
-          "gf": 4,
-          "ga": 4,
+          "gf": 6,
+          "ga": 6,
           "gd": 0,
           "points": 4
         },
@@ -913,8 +913,8 @@
           "won": 1,
           "drawn": 1,
           "lost": 1,
-          "gf": 3,
-          "ga": 5,
+          "gf": 5,
+          "ga": 7,
           "gd": -2,
           "points": 4
         },
@@ -924,8 +924,8 @@
           "won": 0,
           "drawn": 0,
           "lost": 3,
-          "gf": 2,
-          "ga": 7,
+          "gf": 3,
+          "ga": 8,
           "gd": -5,
           "points": 0
         }
@@ -966,18 +966,18 @@
         {
           "home": "Jordan",
           "away": "Argentina",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 1,
+          "awayScore": 3,
           "date": "2026-06-28T02:00:00Z",
-          "status": "PAUSED"
+          "status": "FINISHED"
         },
         {
           "home": "Algeria",
           "away": "Austria",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 3,
+          "awayScore": 3,
           "date": "2026-06-28T02:00:00Z",
-          "status": "PAUSED"
+          "status": "FINISHED"
         }
       ]
     },
@@ -1186,7 +1186,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-06-28T19:00:00Z",
-        "status": "TIMED"
+        "status": "2026-06-29 19:00:00Z"
       },
       {
         "home": "Brazil",
