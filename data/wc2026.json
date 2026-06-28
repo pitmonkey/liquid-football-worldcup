@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T05:26:46+00:00",
+  "lastUpdated": "2026-06-28T07:15:34+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1186,7 +1186,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-06-28T19:00:00Z",
-        "status": "2026-06-29 19:00:00Z"
+        "status": "TIMED"
       },
       {
         "home": "Brazil",
@@ -1198,7 +1198,7 @@
       },
       {
         "home": "Germany",
-        "away": null,
+        "away": "Paraguay",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-06-29T20:30:00Z",
@@ -1214,15 +1214,15 @@
       },
       {
         "home": "Ivory Coast",
-        "away": null,
+        "away": "Norway",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-06-30T17:00:00Z",
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "France",
+        "away": "Sweden",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-06-30T21:00:00Z",
@@ -1230,23 +1230,23 @@
       },
       {
         "home": "Mexico",
-        "away": null,
+        "away": "Ecuador",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-01T01:00:00Z",
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "England",
+        "away": "DR Congo",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-01T16:00:00Z",
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "Belgium",
+        "away": "Senegal",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-01T20:00:00Z",
@@ -1261,16 +1261,16 @@
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "Spain",
+        "away": "Austria",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-02T19:00:00Z",
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "Portugal",
+        "away": "Croatia",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-02T23:00:00Z",
@@ -1278,7 +1278,7 @@
       },
       {
         "home": "Switzerland",
-        "away": null,
+        "away": "Algeria",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-03T03:00:00Z",
@@ -1286,7 +1286,7 @@
       },
       {
         "home": "Australia",
-        "away": null,
+        "away": "Egypt",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-03T18:00:00Z",
@@ -1294,15 +1294,15 @@
       },
       {
         "home": "Argentina",
-        "away": null,
+        "away": "Cape Verde Islands",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-03T22:00:00Z",
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "Colombia",
+        "away": "Ghana",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-04T01:30:00Z",
@@ -1475,8 +1475,8 @@
       "champion": false
     },
     "Paraguay": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Qatar": {
@@ -1545,13 +1545,13 @@
       "champion": false
     },
     "Ecuador": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Sweden": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Tunisia": {
@@ -1560,23 +1560,23 @@
       "champion": false
     },
     "Spain": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Cape Verde Islands": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Belgium": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Egypt": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Saudi Arabia": {
@@ -1600,13 +1600,13 @@
       "champion": false
     },
     "France": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Senegal": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Iraq": {
@@ -1615,8 +1615,8 @@
       "champion": false
     },
     "Norway": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Argentina": {
@@ -1625,13 +1625,13 @@
       "champion": false
     },
     "Algeria": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Austria": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Jordan": {
@@ -1640,28 +1640,28 @@
       "champion": false
     },
     "Portugal": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "DR Congo": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "England": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Croatia": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Ghana": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     },
     "Panama": {
@@ -1675,8 +1675,8 @@
       "champion": false
     },
     "Colombia": {
-      "round": "GROUP",
-      "eliminated": true,
+      "round": "R32",
+      "eliminated": false,
       "champion": false
     }
   }
