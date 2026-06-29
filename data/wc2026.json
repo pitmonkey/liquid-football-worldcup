@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T21:28:57+00:00",
+  "lastUpdated": "2026-06-29T22:21:44+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1202,7 +1202,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-06-29T20:30:00Z",
-        "status": "PAUSED"
+        "status": "IN_PLAY"
       },
       {
         "home": "Netherlands",
