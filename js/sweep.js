@@ -63,6 +63,7 @@ APP.renderSweep = function() {
         return '<div class="grave-card">'
           + '<div class="grave-rip">R.I.P.</div>'
           + '<div class="grave-name">' + p.name + '</div>'
+          + '<div class="grave-flags">' + APP.flag(p.topTeam) + APP.flag(p.bottomTeam) + '</div>'
           + '<div class="grave-cross">✝</div>'
           + '</div>';
       }).join('') + '</div>';
