@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T18:31:50+00:00",
+  "lastUpdated": "2026-06-30T19:32:44+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1215,10 +1215,10 @@
       {
         "home": "Ivory Coast",
         "away": "Norway",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 1,
+        "awayScore": 2,
         "date": "2026-06-30T17:00:00Z",
-        "status": "IN_PLAY"
+        "status": "FINISHED"
       },
       {
         "home": "France",
@@ -1541,7 +1541,7 @@
     },
     "Ivory Coast": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Ecuador": {
