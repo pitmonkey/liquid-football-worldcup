@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T23:19:32+00:00",
+  "lastUpdated": "2026-06-30T00:25:45+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1199,10 +1199,10 @@
       {
         "home": "Germany",
         "away": "Paraguay",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 5,
+        "awayScore": 6,
         "date": "2026-06-29T20:30:00Z",
-        "status": "PAUSED"
+        "status": "FINISHED"
       },
       {
         "home": "Netherlands",
