@@ -196,6 +196,76 @@ body {
 .badge-out     { background: rgba(255,255,255,0.03); color: var(--dim);   border: 1px solid var(--dim); }
 .badge-pending { background: transparent; color: var(--dim); border: 1px dashed var(--dim); }
 
+/* ── Graveyard ── */
+.graveyard { margin-top: 26px; }
+.grave-header {
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 16px;
+}
+.grave-icon { font-size: 20px; }
+.grave-subtitle {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  text-transform: none;
+  color: var(--dim);
+}
+.grave-empty {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--dim);
+  padding: 10px 4px;
+}
+.grave-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+  gap: 14px;
+}
+.grave-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--dim);
+  border-radius: 50px 50px 6px 6px;
+  padding: 18px 10px 14px;
+  text-align: center;
+  opacity: 0.7;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  animation: rowin 0.4s ease both;
+}
+.grave-card:hover { opacity: 1; transform: translateY(-3px); }
+.grave-rip {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+.grave-name {
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: var(--text);
+}
+.grave-cross {
+  margin-top: 8px;
+  font-size: 13px;
+  color: var(--dim);
+}
+
 /* ── Group filter pills ── */
 .group-pills { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
 .group-pill {

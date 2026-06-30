@@ -45,10 +45,41 @@ APP.renderSweep = function() {
       + '</div>';
   }
 
+  function isOut(team) {
+    var s = teamStatus[team];
+    return !s || s.eliminated;
+  }
+
+  function buildGraveyard() {
+    var dead = participants.filter(function(p) {
+      return isOut(p.topTeam) && isOut(p.bottomTeam);
+    });
+
+    var inner;
+    if (dead.length === 0) {
+      inner = '<div class="grave-empty">Nobody dead yet. Give it time. 💀</div>';
+    } else {
+      inner = '<div class="grave-grid">' + dead.map(function(p) {
+        return '<div class="grave-card">'
+          + '<div class="grave-rip">R.I.P.</div>'
+          + '<div class="grave-name">' + p.name + '</div>'
+          + '<div class="grave-cross">✝</div>'
+          + '</div>';
+      }).join('') + '</div>';
+    }
+
+    return '<div class="graveyard">'
+      + '<div class="grave-header"><span class="grave-icon">⚰️</span> Graveyard '
+      + '<span class="grave-subtitle">both teams out — fully eliminated</span></div>'
+      + inner
+      + '</div>';
+  }
+
   var tournamentDay = Math.ceil((Date.now() - new Date('2026-06-11').getTime()) / 86400000);
   el.innerHTML = '<div class="section-header">Sweep Leaderboards — Day ' + tournamentDay + ' of 39</div>'
     + '<div class="sweep-grid">'
     + buildLeaderboard(winnerRanked, 'topTeam', 'gold', '🏆', 'Winner Race', 'Top 24 nations')
     + buildLeaderboard(lameRanked, 'bottomTeam', 'red', '🥔', 'Lame-Winner', 'who is even winning this??')
-    + '</div>';
+    + '</div>'
+    + buildGraveyard();
 };
