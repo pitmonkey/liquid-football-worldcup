@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T03:01:22+00:00",
+  "lastUpdated": "2026-06-30T05:19:32+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1207,10 +1207,10 @@
       {
         "home": "Netherlands",
         "away": "Morocco",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 4,
+        "awayScore": 4,
         "date": "2026-06-30T01:00:00Z",
-        "status": "IN_PLAY"
+        "status": "FINISHED"
       },
       {
         "home": "Ivory Coast",
