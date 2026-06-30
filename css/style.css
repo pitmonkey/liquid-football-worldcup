@@ -260,6 +260,15 @@ body {
   text-transform: uppercase;
   color: var(--text);
 }
+.grave-flags {
+  margin-top: 8px;
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  filter: grayscale(0.6);
+  opacity: 0.85;
+}
+.grave-flags .flag-img { width: 18px; height: auto; border-radius: 1px; }
 .grave-cross {
   margin-top: 8px;
   font-size: 13px;
