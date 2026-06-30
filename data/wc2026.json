@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T00:25:45+00:00",
+  "lastUpdated": "2026-06-30T01:38:01+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1199,8 +1199,8 @@
       {
         "home": "Germany",
         "away": "Paraguay",
-        "homeScore": 5,
-        "awayScore": 6,
+        "homeScore": 4,
+        "awayScore": 5,
         "date": "2026-06-29T20:30:00Z",
         "status": "FINISHED"
       },
@@ -1210,7 +1210,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-06-30T01:00:00Z",
-        "status": "TIMED"
+        "status": "IN_PLAY"
       },
       {
         "home": "Ivory Coast",
