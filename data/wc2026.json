@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T22:24:43+00:00",
+  "lastUpdated": "2026-06-30T23:25:27+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1223,10 +1223,10 @@
       {
         "home": "France",
         "away": "Sweden",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 3,
+        "awayScore": 0,
         "date": "2026-06-30T21:00:00Z",
-        "status": "IN_PLAY"
+        "status": "FINISHED"
       },
       {
         "home": "Mexico",
@@ -1551,7 +1551,7 @@
     },
     "Sweden": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Tunisia": {
