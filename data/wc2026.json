@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T05:19:32+00:00",
+  "lastUpdated": "2026-06-30T07:11:13+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1207,7 +1207,7 @@
       {
         "home": "Netherlands",
         "away": "Morocco",
-        "homeScore": 4,
+        "homeScore": 3,
         "awayScore": 4,
         "date": "2026-06-30T01:00:00Z",
         "status": "FINISHED"
@@ -1312,14 +1312,14 @@
     "R16": [
       {
         "home": "Canada",
-        "away": null,
+        "away": "Morocco",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-04T17:00:00Z",
         "status": "TIMED"
       },
       {
-        "home": null,
+        "home": "Paraguay",
         "away": null,
         "homeScore": null,
         "awayScore": null,
@@ -1327,7 +1327,7 @@
         "status": "TIMED"
       },
       {
-        "home": null,
+        "home": "Brazil",
         "away": null,
         "homeScore": null,
         "awayScore": null,
@@ -1475,7 +1475,7 @@
       "champion": false
     },
     "Paraguay": {
-      "round": "R32",
+      "round": "R16",
       "eliminated": false,
       "champion": false
     },
@@ -1490,12 +1490,12 @@
       "champion": false
     },
     "Brazil": {
-      "round": "R32",
+      "round": "R16",
       "eliminated": false,
       "champion": false
     },
     "Morocco": {
-      "round": "R32",
+      "round": "R16",
       "eliminated": false,
       "champion": false
     },
@@ -1521,7 +1521,7 @@
     },
     "Germany": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Curaçao": {
@@ -1531,7 +1531,7 @@
     },
     "Netherlands": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Japan": {
