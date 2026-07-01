@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T22:25:49+00:00",
+  "lastUpdated": "2026-07-01T23:26:33+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1247,10 +1247,10 @@
       {
         "home": "Belgium",
         "away": "Senegal",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 3,
+        "awayScore": 2,
         "date": "2026-07-01T20:00:00Z",
-        "status": "IN_PLAY"
+        "status": "FINISHED"
       },
       {
         "home": "USA",
@@ -1606,7 +1606,7 @@
     },
     "Senegal": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Iraq": {
