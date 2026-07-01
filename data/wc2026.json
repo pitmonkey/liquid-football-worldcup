@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T19:30:56+00:00",
+  "lastUpdated": "2026-07-01T20:32:15+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1250,7 +1250,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-01T20:00:00Z",
-        "status": "TIMED"
+        "status": "IN_PLAY"
       },
       {
         "home": "USA",
