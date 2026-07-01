@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T03:01:30+00:00",
+  "lastUpdated": "2026-07-01T05:28:51+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1231,10 +1231,10 @@
       {
         "home": "Mexico",
         "away": "Ecuador",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 2,
+        "awayScore": 0,
         "date": "2026-07-01T01:00:00Z",
-        "status": "PAUSED"
+        "status": "FINISHED"
       },
       {
         "home": "England",
@@ -1546,7 +1546,7 @@
     },
     "Ecuador": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Sweden": {
