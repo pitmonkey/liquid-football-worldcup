@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T17:34:18+00:00",
+  "lastUpdated": "2026-07-01T18:34:57+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1239,10 +1239,10 @@
       {
         "home": "England",
         "away": "DR Congo",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 2,
+        "awayScore": 1,
         "date": "2026-07-01T16:00:00Z",
-        "status": "IN_PLAY"
+        "status": "FINISHED"
       },
       {
         "home": "Belgium",
@@ -1646,7 +1646,7 @@
     },
     "DR Congo": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "England": {
