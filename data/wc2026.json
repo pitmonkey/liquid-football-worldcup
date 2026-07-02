@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T20:51:16+00:00",
+  "lastUpdated": "2026-07-02T21:56:55+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1263,10 +1263,10 @@
       {
         "home": "Spain",
         "away": "Austria",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 3,
+        "awayScore": 0,
         "date": "2026-07-02T19:00:00Z",
-        "status": "IN_PLAY"
+        "status": "FINISHED"
       },
       {
         "home": "Portugal",
@@ -1631,7 +1631,7 @@
     },
     "Austria": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Jordan": {
