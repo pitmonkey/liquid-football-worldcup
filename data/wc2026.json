@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T01:37:29+00:00",
+  "lastUpdated": "2026-07-02T05:47:44+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1233,7 +1233,7 @@
         "away": "Ecuador",
         "homeScore": 2,
         "awayScore": 0,
-        "date": "2026-07-01T01:00:00Z",
+        "date": "2026-07-01T02:00:00Z",
         "status": "FINISHED"
       },
       {
@@ -1255,10 +1255,10 @@
       {
         "home": "USA",
         "away": "Bosnia",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 2,
+        "awayScore": 0,
         "date": "2026-07-02T00:00:00Z",
-        "status": "IN_PLAY"
+        "status": "FINISHED"
       },
       {
         "home": "Spain",
@@ -1466,7 +1466,7 @@
     },
     "Bosnia": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "USA": {
