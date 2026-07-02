@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T23:26:33+00:00",
+  "lastUpdated": "2026-07-02T00:26:41+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1258,7 +1258,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-02T00:00:00Z",
-        "status": "TIMED"
+        "status": "IN_PLAY"
       },
       {
         "home": "Spain",
