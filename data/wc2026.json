@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T00:04:30+00:00",
+  "lastUpdated": "2026-07-03T04:34:14+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1271,10 +1271,10 @@
       {
         "home": "Portugal",
         "away": "Croatia",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 2,
+        "awayScore": 1,
         "date": "2026-07-02T23:00:00Z",
-        "status": "PAUSED"
+        "status": "FINISHED"
       },
       {
         "home": "Switzerland",
@@ -1282,7 +1282,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-03T03:00:00Z",
-        "status": "TIMED"
+        "status": "IN_PLAY"
       },
       {
         "home": "Australia",
@@ -1656,7 +1656,7 @@
     },
     "Croatia": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Ghana": {
