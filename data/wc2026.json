@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T18:58:20+00:00",
+  "lastUpdated": "2026-07-03T20:12:19+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1290,7 +1290,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-03T18:00:00Z",
-        "status": "PAUSED"
+        "status": "IN_PLAY"
       },
       {
         "home": "Argentina",
