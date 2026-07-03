@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T04:34:14+00:00",
+  "lastUpdated": "2026-07-03T07:53:48+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1279,10 +1279,10 @@
       {
         "home": "Switzerland",
         "away": "Algeria",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 2,
+        "awayScore": 0,
         "date": "2026-07-03T03:00:00Z",
-        "status": "IN_PLAY"
+        "status": "FINISHED"
       },
       {
         "home": "Australia",
@@ -1626,7 +1626,7 @@
     },
     "Algeria": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Austria": {
