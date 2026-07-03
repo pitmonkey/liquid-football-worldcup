@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T21:54:47+00:00",
+  "lastUpdated": "2026-07-03T22:52:42+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1298,7 +1298,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-03T22:00:00Z",
-        "status": "TIMED"
+        "status": "IN_PLAY"
       },
       {
         "home": "Colombia",
