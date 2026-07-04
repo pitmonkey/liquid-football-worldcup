@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T01:47:00+00:00",
+  "lastUpdated": "2026-07-04T05:34:58+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1303,10 +1303,10 @@
       {
         "home": "Colombia",
         "away": "Ghana",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 1,
+        "awayScore": 0,
         "date": "2026-07-04T01:30:00Z",
-        "status": "IN_PLAY"
+        "status": "FINISHED"
       }
     ],
     "R16": [
@@ -1661,7 +1661,7 @@
     },
     "Ghana": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Panama": {
