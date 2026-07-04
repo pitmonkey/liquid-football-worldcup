@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T21:45:08+00:00",
+  "lastUpdated": "2026-07-04T22:44:38+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1324,7 +1324,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-04T21:00:00Z",
-        "status": "LIVE"
+        "status": "IN_PLAY"
       },
       {
         "home": "Brazil",
