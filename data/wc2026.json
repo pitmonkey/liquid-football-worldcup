@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T05:34:58+00:00",
+  "lastUpdated": "2026-07-04T08:19:46+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1343,8 +1343,8 @@
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "Portugal",
+        "away": "Spain",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-06T19:00:00Z",
@@ -1359,16 +1359,16 @@
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "Argentina",
+        "away": "Egypt",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-07T16:00:00Z",
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "Switzerland",
+        "away": "Colombia",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-07T20:00:00Z",
@@ -1485,7 +1485,7 @@
       "champion": false
     },
     "Switzerland": {
-      "round": "R32",
+      "round": "R16",
       "eliminated": false,
       "champion": false
     },
@@ -1511,7 +1511,7 @@
     },
     "Australia": {
       "round": "R32",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Turkey": {
@@ -1560,7 +1560,7 @@
       "champion": false
     },
     "Spain": {
-      "round": "R32",
+      "round": "R16",
       "eliminated": false,
       "champion": false
     },
@@ -1575,7 +1575,7 @@
       "champion": false
     },
     "Egypt": {
-      "round": "R32",
+      "round": "R16",
       "eliminated": false,
       "champion": false
     },
@@ -1620,7 +1620,7 @@
       "champion": false
     },
     "Argentina": {
-      "round": "R32",
+      "round": "R16",
       "eliminated": false,
       "champion": false
     },
@@ -1640,7 +1640,7 @@
       "champion": false
     },
     "Portugal": {
-      "round": "R32",
+      "round": "R16",
       "eliminated": false,
       "champion": false
     },
@@ -1675,7 +1675,7 @@
       "champion": false
     },
     "Colombia": {
-      "round": "R32",
+      "round": "R16",
       "eliminated": false,
       "champion": false
     }
