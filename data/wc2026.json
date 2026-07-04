@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T16:56:05+00:00",
+  "lastUpdated": "2026-07-04T17:56:24+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1316,7 +1316,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-04T17:00:00Z",
-        "status": "TIMED"
+        "status": "IN_PLAY"
       },
       {
         "home": "Paraguay",
