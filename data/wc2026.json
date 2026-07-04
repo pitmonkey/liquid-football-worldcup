@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T18:58:34+00:00",
+  "lastUpdated": "2026-07-04T20:07:53+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1313,10 +1313,10 @@
       {
         "home": "Canada",
         "away": "Morocco",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 0,
+        "awayScore": 3,
         "date": "2026-07-04T17:00:00Z",
-        "status": "IN_PLAY"
+        "status": "FINISHED"
       },
       {
         "home": "Paraguay",
@@ -1461,7 +1461,7 @@
     },
     "Canada": {
       "round": "R16",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Bosnia": {
