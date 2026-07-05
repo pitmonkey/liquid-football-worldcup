@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T05:53:25+00:00",
+  "lastUpdated": "2026-07-05T08:37:58+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1321,10 +1321,10 @@
       {
         "home": "Paraguay",
         "away": "France",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 0,
+        "awayScore": 1,
         "date": "2026-07-04T21:00:00Z",
-        "status": "2026-07-04 21:00:00Z"
+        "status": "FINISHED"
       },
       {
         "home": "Brazil",
@@ -1332,7 +1332,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-05T20:00:00Z",
-        "status": "2026-07-06 20:00:00Z"
+        "status": "TIMED"
       },
       {
         "home": "Mexico",
@@ -1377,8 +1377,8 @@
     ],
     "QF": [
       {
-        "home": null,
-        "away": null,
+        "home": "France",
+        "away": "Morocco",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-09T20:00:00Z",
@@ -1476,7 +1476,7 @@
     },
     "Paraguay": {
       "round": "R16",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Qatar": {
@@ -1495,7 +1495,7 @@
       "champion": false
     },
     "Morocco": {
-      "round": "R16",
+      "round": "QF",
       "eliminated": false,
       "champion": false
     },
@@ -1600,7 +1600,7 @@
       "champion": false
     },
     "France": {
-      "round": "R16",
+      "round": "QF",
       "eliminated": false,
       "champion": false
     },
