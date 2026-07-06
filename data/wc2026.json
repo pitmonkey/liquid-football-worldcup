@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T19:29:26+00:00",
+  "lastUpdated": "2026-07-06T21:18:38+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1345,10 +1345,10 @@
       {
         "home": "Portugal",
         "away": "Spain",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 0,
+        "awayScore": 1,
         "date": "2026-07-06T19:00:00Z",
-        "status": "LIVE"
+        "status": "FINISHED"
       },
       {
         "home": "USA",
@@ -1641,7 +1641,7 @@
     },
     "Portugal": {
       "round": "R16",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "DR Congo": {
