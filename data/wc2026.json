@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T22:03:44+00:00",
+  "lastUpdated": "2026-07-07T23:44:08+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1369,8 +1369,8 @@
       {
         "home": "Switzerland",
         "away": "Colombia",
-        "homeScore": 0,
-        "awayScore": 0,
+        "homeScore": 4,
+        "awayScore": 3,
         "date": "2026-07-07T20:00:00Z",
         "status": "FINISHED"
       }
