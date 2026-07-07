@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T16:16:04+00:00",
+  "lastUpdated": "2026-07-07T18:53:23+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1361,10 +1361,10 @@
       {
         "home": "Argentina",
         "away": "Egypt",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 3,
+        "awayScore": 2,
         "date": "2026-07-07T16:00:00Z",
-        "status": "LIVE"
+        "status": "FINISHED"
       },
       {
         "home": "Switzerland",
@@ -1576,7 +1576,7 @@
     },
     "Egypt": {
       "round": "R16",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Saudi Arabia": {
