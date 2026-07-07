@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T23:57:30+00:00",
+  "lastUpdated": "2026-07-07T02:37:52+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1353,10 +1353,10 @@
       {
         "home": "USA",
         "away": "Belgium",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 1,
+        "awayScore": 4,
         "date": "2026-07-07T00:00:00Z",
-        "status": "TIMED"
+        "status": "FINISHED"
       },
       {
         "home": "Argentina",
@@ -1471,7 +1471,7 @@
     },
     "USA": {
       "round": "R16",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Paraguay": {
