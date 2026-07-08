@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T04:56:46+00:00",
+  "lastUpdated": "2026-07-08T07:24:03+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1401,8 +1401,8 @@
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "Argentina",
+        "away": "Switzerland",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-12T01:00:00Z",
@@ -1485,7 +1485,7 @@
       "champion": false
     },
     "Switzerland": {
-      "round": "R16",
+      "round": "QF",
       "eliminated": false,
       "champion": false
     },
@@ -1620,7 +1620,7 @@
       "champion": false
     },
     "Argentina": {
-      "round": "R16",
+      "round": "QF",
       "eliminated": false,
       "champion": false
     },
@@ -1676,7 +1676,7 @@
     },
     "Colombia": {
       "round": "R16",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     }
   }
