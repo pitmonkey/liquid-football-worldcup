@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T21:09:23+00:00",
+  "lastUpdated": "2026-07-09T23:00:40+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1379,10 +1379,10 @@
       {
         "home": "France",
         "away": "Morocco",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 2,
+        "awayScore": 0,
         "date": "2026-07-09T20:00:00Z",
-        "status": "PAUSED"
+        "status": "FINISHED"
       },
       {
         "home": "Spain",
@@ -1496,7 +1496,7 @@
     },
     "Morocco": {
       "round": "QF",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Haiti": {
