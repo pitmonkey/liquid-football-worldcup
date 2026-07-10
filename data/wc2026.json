@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T20:11:45+00:00",
+  "lastUpdated": "2026-07-10T21:49:32+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1387,10 +1387,10 @@
       {
         "home": "Spain",
         "away": "Belgium",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 2,
+        "awayScore": 1,
         "date": "2026-07-10T19:00:00Z",
-        "status": "PAUSED"
+        "status": "FINISHED"
       },
       {
         "home": "Norway",
@@ -1571,7 +1571,7 @@
     },
     "Belgium": {
       "round": "QF",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Egypt": {
