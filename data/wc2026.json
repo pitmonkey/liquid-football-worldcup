@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T04:51:38+00:00",
+  "lastUpdated": "2026-07-11T07:04:08+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1412,7 +1412,7 @@
     "SF": [
       {
         "home": "France",
-        "away": null,
+        "away": "Spain",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-14T19:00:00Z",
@@ -1560,7 +1560,7 @@
       "champion": false
     },
     "Spain": {
-      "round": "QF",
+      "round": "SF",
       "eliminated": false,
       "champion": false
     },
