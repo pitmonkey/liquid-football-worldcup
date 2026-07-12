@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T05:14:04+00:00",
+  "lastUpdated": "2026-07-12T07:55:44+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1337,10 +1337,10 @@
       {
         "home": "Mexico",
         "away": "England",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 2,
+        "awayScore": 3,
         "date": "2026-07-06T01:00:00Z",
-        "status": "2026-07-06 01:00:00Z"
+        "status": "FINISHED"
       },
       {
         "home": "Portugal",
@@ -1419,8 +1419,8 @@
         "status": "TIMED"
       },
       {
-        "home": null,
-        "away": null,
+        "home": "England",
+        "away": "Argentina",
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-15T19:00:00Z",
@@ -1441,7 +1441,7 @@
   "teamStatus": {
     "Mexico": {
       "round": "R16",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "South Africa": {
@@ -1620,7 +1620,7 @@
       "champion": false
     },
     "Argentina": {
-      "round": "QF",
+      "round": "SF",
       "eliminated": false,
       "champion": false
     },
@@ -1650,7 +1650,7 @@
       "champion": false
     },
     "England": {
-      "round": "QF",
+      "round": "SF",
       "eliminated": false,
       "champion": false
     },
