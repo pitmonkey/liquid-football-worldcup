@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T01:26:14+00:00",
+  "lastUpdated": "2026-07-12T05:14:04+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1403,10 +1403,10 @@
       {
         "home": "Argentina",
         "away": "Switzerland",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 3,
+        "awayScore": 1,
         "date": "2026-07-12T01:00:00Z",
-        "status": "IN_PLAY"
+        "status": "FINISHED"
       }
     ],
     "SF": [
@@ -1486,7 +1486,7 @@
     },
     "Switzerland": {
       "round": "QF",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Brazil": {
