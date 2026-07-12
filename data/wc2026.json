@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T23:41:21+00:00",
+  "lastUpdated": "2026-07-12T01:26:14+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1395,10 +1395,10 @@
       {
         "home": "Norway",
         "away": "England",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 1,
+        "awayScore": 2,
         "date": "2026-07-11T21:00:00Z",
-        "status": "PAUSED"
+        "status": "FINISHED"
       },
       {
         "home": "Argentina",
@@ -1406,7 +1406,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-12T01:00:00Z",
-        "status": "TIMED"
+        "status": "IN_PLAY"
       }
     ],
     "SF": [
@@ -1616,7 +1616,7 @@
     },
     "Norway": {
       "round": "QF",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Argentina": {
