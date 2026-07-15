@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T04:38:08+00:00",
+  "lastUpdated": "2026-07-15T07:04:40+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1429,7 +1429,7 @@
     ],
     "FINAL": [
       {
-        "home": null,
+        "home": "Spain",
         "away": null,
         "homeScore": null,
         "awayScore": null,
@@ -1560,7 +1560,7 @@
       "champion": false
     },
     "Spain": {
-      "round": "SF",
+      "round": "FINAL",
       "eliminated": false,
       "champion": false
     },
