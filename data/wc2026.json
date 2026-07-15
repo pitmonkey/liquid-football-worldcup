@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T20:00:29+00:00",
+  "lastUpdated": "2026-07-15T21:44:59+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1421,10 +1421,10 @@
       {
         "home": "England",
         "away": "Argentina",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 1,
+        "awayScore": 2,
         "date": "2026-07-15T19:00:00Z",
-        "status": "PAUSED"
+        "status": "FINISHED"
       }
     ],
     "FINAL": [
@@ -1651,7 +1651,7 @@
     },
     "England": {
       "round": "SF",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Croatia": {
