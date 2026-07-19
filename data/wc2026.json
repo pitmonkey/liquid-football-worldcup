@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T18:46:06+00:00",
+  "lastUpdated": "2026-07-19T20:00:41+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1434,7 +1434,7 @@
         "homeScore": null,
         "awayScore": null,
         "date": "2026-07-19T19:00:00Z",
-        "status": "TIMED"
+        "status": "PAUSED"
       }
     ]
   },
