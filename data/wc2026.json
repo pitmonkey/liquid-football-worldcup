@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T21:39:33+00:00",
+  "lastUpdated": "2026-07-19T22:39:33+00:00",
   "groups": {
     "A": {
       "standings": [
@@ -1431,10 +1431,10 @@
       {
         "home": "Spain",
         "away": "Argentina",
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 1,
+        "awayScore": 0,
         "date": "2026-07-19T19:00:00Z",
-        "status": "IN_PLAY"
+        "status": "FINISHED"
       }
     ]
   },
@@ -1562,7 +1562,7 @@
     "Spain": {
       "round": "FINAL",
       "eliminated": false,
-      "champion": false
+      "champion": true
     },
     "Cape Verde Islands": {
       "round": "R32",
@@ -1621,7 +1621,7 @@
     },
     "Argentina": {
       "round": "FINAL",
-      "eliminated": false,
+      "eliminated": true,
       "champion": false
     },
     "Algeria": {
